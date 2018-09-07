@@ -1,7 +1,7 @@
 // Place your settings in this file to overwrite the default settings
 {
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Red",
+    "workbench.colorTheme": "Hopscotch",
     "git.ignoreMissingGitWarning": true,
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
